@@ -9,7 +9,7 @@
   "author": "Nikolay Mezinov",
   "license": "ISC",
   "dependencies": {
-    "moleculer": "0.13.9",
+    "moleculer": "0.14.36",
     "moleculer-db": "^0.8.2",
     "moleculer-db-adapter-mongo": "^0.4.4",
     "moleculer-web": "0.8.5"
